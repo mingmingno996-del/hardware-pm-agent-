@@ -1,0 +1,13 @@
+{
+    "Project_Name": "智能感光小夜灯",
+    "Power_Supply": "3.7V 锂电池供电，Type-C充电",
+    "Core_Modules": [
+        "低功耗微控制器 (MCU)",
+        "LED灯",
+        "光敏传感器",
+        "锂电池充电管理模块",
+        "物理按键"
+    ],
+    "User_Interaction": "物理按键 (开关)，光敏传感器自动感应",
+    "Size_Constraint": "5cm x 5cm x 2cm 内"
+}
