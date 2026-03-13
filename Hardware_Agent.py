@@ -10,7 +10,7 @@ from google.genai import types, errors
 os.environ['HTTP_PROXY'] = 'http://127.0.0.1:7890'
 os.environ['HTTPS_PROXY'] = 'http://127.0.0.1:7890'
 
-API_KEY = "AIzaSyAAr8Y4ykaR_8JfLUpl_wh5sAaYprM-NU0"  # 你的真实 Key
+API_KEY =  # 你的真实 Key
 client = genai.Client(api_key=API_KEY)
 
 
